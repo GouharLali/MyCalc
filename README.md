@@ -1,7 +1,7 @@
 
 # Description:
 
-Basic App for a calculator. 
+Basic calculator app. 
 
 # ScreenShots:
 
