@@ -11,6 +11,6 @@ Basic calculator app.
 
 - Kotlin
 - Android
-- view Binding
+- View Binding
 
 
